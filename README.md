@@ -47,7 +47,7 @@ brew install gcc make ncurses
 ### Building
 
 ```bash
-git clone https://github.com/yourusername/texon.git
+git clone https://github.com/frxnxtic/texon.git
 cd texon
 make
 ```
